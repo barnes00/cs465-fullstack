@@ -16,3 +16,13 @@ Angular - This framework was used to create the admin SPA. By using this framewo
 Node.js - This is a runtime environment that allowed the application to run on JavaScript. 
 
 Security - The API endpoints are secured by using Passport and JWT. User credentials are stored within the MongoDB database with passwords undergoing one-way encryption by being salted and hashed. 
+
+# Screenshots
+
+HTML customer site
+
+![travlr](https://user-images.githubusercontent.com/86049959/204953499-2b0fb224-61a5-4bf9-9764-614a39e8b511.png)
+
+Admin site
+
+![travlrAdmin](https://user-images.githubusercontent.com/86049959/204953533-a347ddd4-7091-44ae-a479-321a7ec171a7.png)
